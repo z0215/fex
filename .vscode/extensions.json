@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "antfu.unocss",
+    "dbaeumer.vscode-eslint",
+    "Vue.volar",
+    "streetsidesoftware.code-spell-checker",
+    "usernamehw.errorlens",
+    "johnsoncodehk.vscode-tsconfig-helper",
+    "naumovs.color-highlight"
+  ]
+}

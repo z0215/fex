@@ -1,0 +1,114 @@
+{
+  "vue": {
+    "scope": "vue",
+    "prefix": "vue",
+    "body": [
+      "<script setup lang=\"ts\">",
+      "defineOptions({",
+      "  inheritAttrs: false",
+      "})",
+      "</script>",
+      "",
+      "<template>",
+      "  <${1:div}>$0</div>",
+      "</template>"
+    ]
+  },
+  "vue1": {
+    "scope": "vue",
+    "prefix": "vue",
+    "body": [
+      "<script setup lang=\"ts\">",
+      "defineOptions({",
+      "  inheritAttrs: false",
+      "})",
+      "interface Props {}",
+      "const props = withDefaults(defineProps<Props>(), {})",
+      "</script>",
+      "",
+      "<template>",
+      "  <${1:div}>$0</div>",
+      "</template>"
+    ]
+  },
+  "vue2": {
+    "scope": "vue",
+    "prefix": "vue",
+    "body": [
+      "<script setup lang=\"ts\">",
+      "defineOptions({",
+      "  inheritAttrs: false",
+      "})",
+      "interface Props {}",
+      "const props = withDefaults(defineProps<Props>(), {})",
+      "interface EmitEvents {}",
+      "const emit = defineEmits<EmitEvents>()",
+      "</script>",
+      "",
+      "<template>",
+      "  <${1:div}>$0</div>",
+      "</template>"
+      
+    ]
+  },
+  "vue3 ts template": {
+    "scope": "vue",
+    "prefix": "vue",
+    "body": [
+      "<script lang=\"ts\" setup>",
+      "import {} from 'vue'",
+      "const props = withDefaults(defineProps<{}>(), {})",
+      "const emit = defineEmits<{}>()",
+      "</script>",
+      "",
+      "<template>",
+      "  <${1:section} class=\"${2:${TM_FILENAME_BASE/(^[A-Z][a-z]*|[a-z])([A-Z])?/${1:/downcase}${2:+-}${2:/downcase}/g}}\">$0</section>",
+      "</template>"
+    ]
+  },
+  "vue3 ts template": {
+    "scope": "vue",
+    "prefix": "vue",
+    "body": [
+      "<script lang=\"ts\" setup>",
+      "import {} from 'vue'",
+      "</script>",
+      "",
+      "<template>",
+      "  <${1:section} class=\"${2:${TM_FILENAME_BASE/(^[A-Z][a-z]*|[a-z])([A-Z])?/${1:/downcase}${2:+-}${2:/downcase}/g}}\">$0</section>",
+      "</template>"
+    ]
+  },
+  "vue3 props template": {
+    "scope": "vue,javascript,typescript",
+    "prefix": "vp",
+    "body": [
+      "interface Props {$1}",
+      "defineProps<Props>()"
+    ]
+  },
+  "vue3 default props template with withDefaults": {
+    "scope": "vue,javascript,typescript",
+    "prefix": "vdp",
+    "body": [
+      "interface Props {$1}",
+      "const props = withDefaults(defineProps<Props>(), {$2})"
+    ]
+  },
+  "vue3 default props template": {
+    "scope": "vue,javascript,typescript",
+    "prefix": "vdp",
+    "body": [
+      "interface Props {$1}",
+      "const {$2} = defineProps<Props>()"
+    ]
+  },
+  "vue3 emit template": {
+    "scope": "vue,javascript,typescript",
+    "prefix": "ve",
+    "body": [
+      "interface EmitEvents {$1}",
+      "const emit = defineEmits<EmitEvents>()"
+    ]
+  },
+}

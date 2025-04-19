@@ -1,0 +1,104 @@
+[
+  {
+    "name": "React"
+  },
+  {
+    "name": "createElement"
+  },
+  {
+    "name": "cloneElement"
+  },
+  {
+    "name": "createContext"
+  },
+  {
+    "name": "isValidElement"
+  },
+  {
+    "name": "Children"
+  },
+  {
+    "name": "Fragment"
+  },
+  {
+    "name": "StrictMode"
+  },
+  {
+    "name": "Suspense"
+  },
+  {
+    "name": "version"
+  },
+  {
+    "name": "Profiler"
+  },
+  {
+    "name": "Component"
+  },
+  {
+    "name": "PureComponent"
+  },
+  {
+    "name": "createRef"
+  },
+  {
+    "name": "forwardRef"
+  },
+  {
+    "name": "memo"
+  },
+  {
+    "name": "lazy"
+  },
+  {
+    "name": "useContext"
+  },
+  {
+    "name": "useState"
+  },
+  {
+    "name": "useReducer"
+  },
+  {
+    "name": "useRef"
+  },
+  {
+    "name": "useLayoutEffect"
+  },
+  {
+    "name": "useEffect"
+  },
+  {
+    "name": "useImperativeHandle"
+  },
+  {
+    "name": "useCallback"
+  },
+  {
+    "name": "useMemo"
+  },
+  {
+    "name": "useDebugValue"
+  },
+  {
+    "name": "useDeferredValue"
+  },
+  {
+    "name": "useTransition"
+  },
+  {
+    "name": "startTransition"
+  },
+  {
+    "name": "act"
+  },
+  {
+    "name": "useId"
+  },
+  {
+    "name": "useInsertionEffect"
+  },
+  {
+    "name": "useSyncExternalStore"
+  }
+]

@@ -1,0 +1,14 @@
+.query-builder-dropdown .ant-dropdown {
+  position: unset;
+}
+
+.query-builder-dropdown .ant-dropdown .ant-dropdown-menu {
+  box-shadow: none;
+}
+
+.query-builder-dropdown
+  .ant-dropdown
+  .ant-dropdown-menu
+  .ant-dropdown-menu-item-group-title {
+  padding: var(--ant-dropdown-padding-block) 0;
+}

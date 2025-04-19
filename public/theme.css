@@ -1,0 +1,60 @@
+@layer base {
+  :root {
+    /* allow user custom */
+    --text-color: #0c0a09;
+    --background-color: #fff;
+    --primary-color: #2563eb;
+    --primary-text-color: #fff;
+
+    /* built-in */
+    --second-color: #71717a;
+    --border-color: #e4e4e7;
+    --hover-color: #f4f4f5;
+    --success-color: #52c41a;
+    --warning-color: #faad14;
+    --error-color: #ff4d4f;
+  }
+  .dark {
+    --text-color: #fafaf9;
+    --background-color: #0c0a09;
+  }
+
+  .theme-black {
+    --primary-color: #18181b;
+    --primary-text-color: #fafafa;
+  }
+  .dark.theme-black {
+    --primary-color: #fafafa;
+    --primary-text-color: #18181b;
+  }
+
+  .theme-blue {
+    --primary-color: #2563eb;
+    --primary-text-color: #f8fafc;
+  }
+
+  .theme-orange {
+    --primary-color: #f97316;
+    --primary-text-color: #fafaf9;
+  }
+
+  .theme-yellow {
+    --primary-color: #facc15;
+    --primary-text-color: #422006;
+  }
+
+  .theme-green {
+    --primary-color: #16a34a;
+    --primary-text-color: #fff1f2;
+  }
+
+  .theme-pink {
+    --primary-color: #ffb6c1;
+    --primary-text-color: #fff;
+  }
+
+  .theme-purple {
+    --primary-color: #7c3aed;
+    --primary-text-color: #f9fafb;
+  }
+}

@@ -1,0 +1,926 @@
+[
+  {
+    "name": "add"
+  },
+  {
+    "name": "after"
+  },
+  {
+    "name": "ary"
+  },
+  {
+    "name": "assign"
+  },
+  {
+    "name": "assignIn"
+  },
+  {
+    "name": "assignInWith"
+  },
+  {
+    "name": "assignWith"
+  },
+  {
+    "name": "at"
+  },
+  {
+    "name": "attempt"
+  },
+  {
+    "name": "before"
+  },
+  {
+    "name": "bind"
+  },
+  {
+    "name": "bindAll"
+  },
+  {
+    "name": "bindKey"
+  },
+  {
+    "name": "camelCase"
+  },
+  {
+    "name": "capitalize"
+  },
+  {
+    "name": "castArray"
+  },
+  {
+    "name": "ceil"
+  },
+  {
+    "name": "chain"
+  },
+  {
+    "name": "chunk"
+  },
+  {
+    "name": "clamp"
+  },
+  {
+    "name": "clone"
+  },
+  {
+    "name": "cloneDeep"
+  },
+  {
+    "name": "cloneDeepWith"
+  },
+  {
+    "name": "cloneWith"
+  },
+  {
+    "name": "compact"
+  },
+  {
+    "name": "concat"
+  },
+  {
+    "name": "cond"
+  },
+  {
+    "name": "conforms"
+  },
+  {
+    "name": "conformsTo"
+  },
+  {
+    "name": "constant"
+  },
+  {
+    "name": "countBy"
+  },
+  {
+    "name": "create"
+  },
+  {
+    "name": "curry"
+  },
+  {
+    "name": "curryRight"
+  },
+  {
+    "name": "DebouncedFunc"
+  },
+  {
+    "name": "DebounceSettings"
+  },
+  {
+    "name": "debounce"
+  },
+  {
+    "name": "deburr"
+  },
+  {
+    "name": "defaults"
+  },
+  {
+    "name": "defaultsDeep"
+  },
+  {
+    "name": "defaultTo"
+  },
+  {
+    "name": "defer"
+  },
+  {
+    "name": "delay"
+  },
+  {
+    "name": "difference"
+  },
+  {
+    "name": "differenceBy"
+  },
+  {
+    "name": "differenceWith"
+  },
+  {
+    "name": "divide"
+  },
+  {
+    "name": "drop"
+  },
+  {
+    "name": "dropRight"
+  },
+  {
+    "name": "dropRightWhile"
+  },
+  {
+    "name": "dropWhile"
+  },
+  {
+    "name": "each"
+  },
+  {
+    "name": "eachRight"
+  },
+  {
+    "name": "endsWith"
+  },
+  {
+    "name": "entries"
+  },
+  {
+    "name": "entriesIn"
+  },
+  {
+    "name": "eq"
+  },
+  {
+    "name": "escape"
+  },
+  {
+    "name": "escapeRegExp"
+  },
+  {
+    "name": "every"
+  },
+  {
+    "name": "extend"
+  },
+  {
+    "name": "extendWith"
+  },
+  {
+    "name": "fill"
+  },
+  {
+    "name": "filter"
+  },
+  {
+    "name": "find"
+  },
+  {
+    "name": "findIndex"
+  },
+  {
+    "name": "findKey"
+  },
+  {
+    "name": "findLast"
+  },
+  {
+    "name": "findLastIndex"
+  },
+  {
+    "name": "findLastKey"
+  },
+  {
+    "name": "first"
+  },
+  {
+    "name": "flatMap"
+  },
+  {
+    "name": "flatMapDeep"
+  },
+  {
+    "name": "flatMapDepth"
+  },
+  {
+    "name": "flatten"
+  },
+  {
+    "name": "flattenDeep"
+  },
+  {
+    "name": "flattenDepth"
+  },
+  {
+    "name": "flip"
+  },
+  {
+    "name": "floor"
+  },
+  {
+    "name": "flow"
+  },
+  {
+    "name": "flowRight"
+  },
+  {
+    "name": "forEach"
+  },
+  {
+    "name": "forEachRight"
+  },
+  {
+    "name": "forIn"
+  },
+  {
+    "name": "forInRight"
+  },
+  {
+    "name": "forOwn"
+  },
+  {
+    "name": "forOwnRight"
+  },
+  {
+    "name": "fromPairs"
+  },
+  {
+    "name": "functions"
+  },
+  {
+    "name": "functionsIn"
+  },
+  {
+    "name": "get"
+  },
+  {
+    "name": "groupBy"
+  },
+  {
+    "name": "gt"
+  },
+  {
+    "name": "gte"
+  },
+  {
+    "name": "has"
+  },
+  {
+    "name": "hasIn"
+  },
+  {
+    "name": "head"
+  },
+  {
+    "name": "identity"
+  },
+  {
+    "name": "includes"
+  },
+  {
+    "name": "indexOf"
+  },
+  {
+    "name": "initial"
+  },
+  {
+    "name": "inRange"
+  },
+  {
+    "name": "intersection"
+  },
+  {
+    "name": "intersectionBy"
+  },
+  {
+    "name": "intersectionWith"
+  },
+  {
+    "name": "invert"
+  },
+  {
+    "name": "invertBy"
+  },
+  {
+    "name": "invoke"
+  },
+  {
+    "name": "invokeMap"
+  },
+  {
+    "name": "isArguments"
+  },
+  {
+    "name": "isArray"
+  },
+  {
+    "name": "isArrayBuffer"
+  },
+  {
+    "name": "isArrayLike"
+  },
+  {
+    "name": "isArrayLikeObject"
+  },
+  {
+    "name": "isBoolean"
+  },
+  {
+    "name": "isBuffer"
+  },
+  {
+    "name": "isDate"
+  },
+  {
+    "name": "isElement"
+  },
+  {
+    "name": "isEmpty"
+  },
+  {
+    "name": "isEqual"
+  },
+  {
+    "name": "isEqualWith"
+  },
+  {
+    "name": "isError"
+  },
+  {
+    "name": "isFinite"
+  },
+  {
+    "name": "isFunction"
+  },
+  {
+    "name": "isInteger"
+  },
+  {
+    "name": "isLength"
+  },
+  {
+    "name": "isMap"
+  },
+  {
+    "name": "isMatch"
+  },
+  {
+    "name": "isMatchWith"
+  },
+  {
+    "name": "isNaN"
+  },
+  {
+    "name": "isNative"
+  },
+  {
+    "name": "isNil"
+  },
+  {
+    "name": "isNull"
+  },
+  {
+    "name": "isNumber"
+  },
+  {
+    "name": "isObject"
+  },
+  {
+    "name": "isObjectLike"
+  },
+  {
+    "name": "isPlainObject"
+  },
+  {
+    "name": "isRegExp"
+  },
+  {
+    "name": "isSafeInteger"
+  },
+  {
+    "name": "isSet"
+  },
+  {
+    "name": "isString"
+  },
+  {
+    "name": "isSymbol"
+  },
+  {
+    "name": "isTypedArray"
+  },
+  {
+    "name": "isUndefined"
+  },
+  {
+    "name": "isWeakMap"
+  },
+  {
+    "name": "isWeakSet"
+  },
+  {
+    "name": "iteratee"
+  },
+  {
+    "name": "join"
+  },
+  {
+    "name": "kebabCase"
+  },
+  {
+    "name": "keyBy"
+  },
+  {
+    "name": "keys"
+  },
+  {
+    "name": "keysIn"
+  },
+  {
+    "name": "last"
+  },
+  {
+    "name": "lastIndexOf"
+  },
+  {
+    "name": "lowerCase"
+  },
+  {
+    "name": "lowerFirst"
+  },
+  {
+    "name": "lt"
+  },
+  {
+    "name": "lte"
+  },
+  {
+    "name": "map"
+  },
+  {
+    "name": "mapKeys"
+  },
+  {
+    "name": "mapValues"
+  },
+  {
+    "name": "matches"
+  },
+  {
+    "name": "matchesProperty"
+  },
+  {
+    "name": "max"
+  },
+  {
+    "name": "maxBy"
+  },
+  {
+    "name": "mean"
+  },
+  {
+    "name": "meanBy"
+  },
+  {
+    "name": "memoize"
+  },
+  {
+    "name": "merge"
+  },
+  {
+    "name": "mergeWith"
+  },
+  {
+    "name": "method"
+  },
+  {
+    "name": "methodOf"
+  },
+  {
+    "name": "min"
+  },
+  {
+    "name": "minBy"
+  },
+  {
+    "name": "mixin"
+  },
+  {
+    "name": "multiply"
+  },
+  {
+    "name": "negate"
+  },
+  {
+    "name": "noop"
+  },
+  {
+    "name": "now"
+  },
+  {
+    "name": "nth"
+  },
+  {
+    "name": "nthArg"
+  },
+  {
+    "name": "omit"
+  },
+  {
+    "name": "omitBy"
+  },
+  {
+    "name": "once"
+  },
+  {
+    "name": "orderBy"
+  },
+  {
+    "name": "over"
+  },
+  {
+    "name": "overArgs"
+  },
+  {
+    "name": "overEvery"
+  },
+  {
+    "name": "overSome"
+  },
+  {
+    "name": "pad"
+  },
+  {
+    "name": "padEnd"
+  },
+  {
+    "name": "padStart"
+  },
+  {
+    "name": "parseInt"
+  },
+  {
+    "name": "partial"
+  },
+  {
+    "name": "partialRight"
+  },
+  {
+    "name": "partition"
+  },
+  {
+    "name": "pick"
+  },
+  {
+    "name": "pickBy"
+  },
+  {
+    "name": "property"
+  },
+  {
+    "name": "PropertyPath"
+  },
+  {
+    "name": "propertyOf"
+  },
+  {
+    "name": "pull"
+  },
+  {
+    "name": "pullAll"
+  },
+  {
+    "name": "pullAllBy"
+  },
+  {
+    "name": "pullAllWith"
+  },
+  {
+    "name": "pullAt"
+  },
+  {
+    "name": "random"
+  },
+  {
+    "name": "range"
+  },
+  {
+    "name": "rangeRight"
+  },
+  {
+    "name": "rearg"
+  },
+  {
+    "name": "reduce"
+  },
+  {
+    "name": "reduceRight"
+  },
+  {
+    "name": "reject"
+  },
+  {
+    "name": "remove"
+  },
+  {
+    "name": "repeat"
+  },
+  {
+    "name": "replace"
+  },
+  {
+    "name": "rest"
+  },
+  {
+    "name": "result"
+  },
+  {
+    "name": "reverse"
+  },
+  {
+    "name": "round"
+  },
+  {
+    "name": "sample"
+  },
+  {
+    "name": "sampleSize"
+  },
+  {
+    "name": "set"
+  },
+  {
+    "name": "setWith"
+  },
+  {
+    "name": "shuffle"
+  },
+  {
+    "name": "size"
+  },
+  {
+    "name": "slice"
+  },
+  {
+    "name": "snakeCase"
+  },
+  {
+    "name": "some"
+  },
+  {
+    "name": "sortBy"
+  },
+  {
+    "name": "sortedIndex"
+  },
+  {
+    "name": "sortedIndexBy"
+  },
+  {
+    "name": "sortedIndexOf"
+  },
+  {
+    "name": "sortedLastIndex"
+  },
+  {
+    "name": "sortedLastIndexBy"
+  },
+  {
+    "name": "sortedLastIndexOf"
+  },
+  {
+    "name": "sortedUniq"
+  },
+  {
+    "name": "sortedUniqBy"
+  },
+  {
+    "name": "split"
+  },
+  {
+    "name": "spread"
+  },
+  {
+    "name": "startCase"
+  },
+  {
+    "name": "startsWith"
+  },
+  {
+    "name": "stubArray"
+  },
+  {
+    "name": "stubFalse"
+  },
+  {
+    "name": "stubObject"
+  },
+  {
+    "name": "stubString"
+  },
+  {
+    "name": "stubTrue"
+  },
+  {
+    "name": "subtract"
+  },
+  {
+    "name": "sum"
+  },
+  {
+    "name": "sumBy"
+  },
+  {
+    "name": "tail"
+  },
+  {
+    "name": "take"
+  },
+  {
+    "name": "takeRight"
+  },
+  {
+    "name": "takeRightWhile"
+  },
+  {
+    "name": "takeWhile"
+  },
+  {
+    "name": "tap"
+  },
+  {
+    "name": "template"
+  },
+  {
+    "name": "templateSettings"
+  },
+  {
+    "name": "throttle"
+  },
+  {
+    "name": "ThrottleSettings"
+  },
+  {
+    "name": "thru"
+  },
+  {
+    "name": "times"
+  },
+  {
+    "name": "toArray"
+  },
+  {
+    "name": "toFinite"
+  },
+  {
+    "name": "toInteger"
+  },
+  {
+    "name": "toLength"
+  },
+  {
+    "name": "toLower"
+  },
+  {
+    "name": "toNumber"
+  },
+  {
+    "name": "toPairs"
+  },
+  {
+    "name": "toPairsIn"
+  },
+  {
+    "name": "toPath"
+  },
+  {
+    "name": "toPlainObject"
+  },
+  {
+    "name": "toSafeInteger"
+  },
+  {
+    "name": "toString"
+  },
+  {
+    "name": "toUpper"
+  },
+  {
+    "name": "transform"
+  },
+  {
+    "name": "trim"
+  },
+  {
+    "name": "trimEnd"
+  },
+  {
+    "name": "trimStart"
+  },
+  {
+    "name": "truncate"
+  },
+  {
+    "name": "unary"
+  },
+  {
+    "name": "unescape"
+  },
+  {
+    "name": "union"
+  },
+  {
+    "name": "unionBy"
+  },
+  {
+    "name": "unionWith"
+  },
+  {
+    "name": "uniq"
+  },
+  {
+    "name": "uniqBy"
+  },
+  {
+    "name": "uniqueId"
+  },
+  {
+    "name": "uniqWith"
+  },
+  {
+    "name": "unset"
+  },
+  {
+    "name": "unzip"
+  },
+  {
+    "name": "unzipWith"
+  },
+  {
+    "name": "update"
+  },
+  {
+    "name": "updateWith"
+  },
+  {
+    "name": "upperCase"
+  },
+  {
+    "name": "upperFirst"
+  },
+  {
+    "name": "values"
+  },
+  {
+    "name": "valuesIn"
+  },
+  {
+    "name": "without"
+  },
+  {
+    "name": "words"
+  },
+  {
+    "name": "wrap"
+  },
+  {
+    "name": "xor"
+  },
+  {
+    "name": "xorBy"
+  },
+  {
+    "name": "xorWith"
+  },
+  {
+    "name": "zip"
+  },
+  {
+    "name": "zipObject"
+  },
+  {
+    "name": "zipObjectDeep"
+  },
+  {
+    "name": "zipWith"
+  }
+]

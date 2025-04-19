@@ -1,0 +1,111 @@
+.Array {
+  width: 100%;
+  align-items: flex-start;
+}
+.Array :not(:last-child) {
+  flex: 1 1 auto;
+}
+
+.expressionTextArea {
+  display: inline-table;
+  width: 100%;
+  position: relative;
+}
+.expressionTextAreaPrepend {
+  display: table-cell;
+  vertical-align: middle;
+  position: relative;
+  padding: 2px 0;
+  text-align: center;
+  width: 22px;
+  background-color: #fafafa;
+  border: 1px solid var(--zoom-border-color-secondary);
+  border-radius: var(--zoom-border-radius-large);
+  border-top-right-radius: 0;
+  border-bottom-right-radius: 0 ;
+  border-right: unset;
+}
+.expressionTextAreaInput {
+  display: table-cell;
+  border-top-left-radius: 0;
+  border-bottom-left-radius: 0;
+  color: transparent;
+  caret-color: #000;
+  z-index: 1;
+  background-color: transparent;
+  padding-right: 24px;
+  word-break: break-all;
+}
+.expressionTextAreaModalOpener {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  cursor: pointer;
+  padding: 3px;
+  line-height: 9px;
+  border: 1px solid var(--zoom-border-color-secondary);
+  border-top-left-radius: var(--zoom-border-radius-xs);
+  border-right: unset;
+  border-bottom: unset;
+  z-index: 1;
+}
+.expressionTextAreaModalOpener:hover {
+  color: var(--zoom-blue-hover-color);
+  border-color: var(--zoom-blue-hover-color);
+}
+.expressionTextAreaRender {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  pointer-events: none;
+  overflow-wrap: break-word;
+  white-space: pre-wrap;
+  word-break: break-all;
+  width: calc(100% - 22px);
+  height: 100%;
+  min-height: 32px;
+  padding: 4px 24px 4px 11px;
+  border: 1px solid transparent;
+  overflow-y: auto;
+}
+
+.variable {
+  background-color: #e1f3d8;
+  color: #29a568;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  white-space: pre-wrap;
+}
+
+.variableList {
+  min-height: 700px;
+  height: 100%;
+}
+.variableList .listItem {
+  user-select: none;
+}
+.variableList .listItem:hover {
+  background-color: #e6f7ff;
+  cursor: pointer;
+}
+.variableList .ant-spin-nested-loading {
+  height: 100%;
+  .ant-spin-container {
+    height: 100%;
+  }
+}
+
+.variableWrapper {
+  position: relative;
+}
+.variableWrapper .segmented {
+  position: absolute;
+  top: -24px;
+  right: 0;
+  visibility: hidden;
+}
+.variableWrapper:hover {
+  .segmented {
+    visibility: visible;
+  }
+}

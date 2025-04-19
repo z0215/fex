@@ -1,0 +1,50 @@
+{
+	"react": {
+		"prefix": "fc",
+		"body": [
+			"import type { FC } from \"react\"",
+			"",
+			"const $1: FC = () => {",
+			"  return <>$2</>",
+			"}",
+			"",
+			"export default $1",
+		]
+	},
+	"react1": {
+		"prefix": "fc",
+		"body": [
+			"import type { FC } from \"react\"",
+			"",
+			"export interface $1Props {",
+			"}",
+			"",
+			"const $1: FC<$1Props> = ({}) => {",
+			"  return <>$2</>",
+			"}",
+			"",
+			"export default $1",
+		]
+	},
+	"react2": {
+		"prefix": "fc",
+		"body": [
+			"import type { ForwardRefRenderFunction } from \"react\"",
+			"",
+			"export interface $1Props {",
+			"}",
+			"",
+			"export interface $1Ref {",
+			"}",
+			"",
+			"const $1: ForwardRefRenderFunction<$1Ref, $1Props> = ({}, ref) => {",
+			"",
+			"  useImperativeHandle(ref, () => ({}))",
+			"",
+			"  return <>$2</>",
+			"}",
+			"",
+			"export default forwardRef($1)",
+		]
+	},
+}

@@ -1,0 +1,2495 @@
+[
+  {
+    "name": "AccountBookFilled"
+  },
+  {
+    "name": "AccountBookOutlined"
+  },
+  {
+    "name": "AccountBookTwoTone"
+  },
+  {
+    "name": "AimOutlined"
+  },
+  {
+    "name": "AlertFilled"
+  },
+  {
+    "name": "AlertOutlined"
+  },
+  {
+    "name": "AlertTwoTone"
+  },
+  {
+    "name": "AlibabaOutlined"
+  },
+  {
+    "name": "AlignCenterOutlined"
+  },
+  {
+    "name": "AlignLeftOutlined"
+  },
+  {
+    "name": "AlignRightOutlined"
+  },
+  {
+    "name": "AlipayCircleFilled"
+  },
+  {
+    "name": "AlipayCircleOutlined"
+  },
+  {
+    "name": "AlipayOutlined"
+  },
+  {
+    "name": "AlipaySquareFilled"
+  },
+  {
+    "name": "AliwangwangFilled"
+  },
+  {
+    "name": "AliwangwangOutlined"
+  },
+  {
+    "name": "AliyunOutlined"
+  },
+  {
+    "name": "AmazonCircleFilled"
+  },
+  {
+    "name": "AmazonOutlined"
+  },
+  {
+    "name": "AmazonSquareFilled"
+  },
+  {
+    "name": "AndroidFilled"
+  },
+  {
+    "name": "AndroidOutlined"
+  },
+  {
+    "name": "AntCloudOutlined"
+  },
+  {
+    "name": "AntDesignOutlined"
+  },
+  {
+    "name": "ApartmentOutlined"
+  },
+  {
+    "name": "ApiFilled"
+  },
+  {
+    "name": "ApiOutlined"
+  },
+  {
+    "name": "ApiTwoTone"
+  },
+  {
+    "name": "AppleFilled"
+  },
+  {
+    "name": "AppleOutlined"
+  },
+  {
+    "name": "AppstoreAddOutlined"
+  },
+  {
+    "name": "AppstoreFilled"
+  },
+  {
+    "name": "AppstoreOutlined"
+  },
+  {
+    "name": "AppstoreTwoTone"
+  },
+  {
+    "name": "AreaChartOutlined"
+  },
+  {
+    "name": "ArrowDownOutlined"
+  },
+  {
+    "name": "ArrowLeftOutlined"
+  },
+  {
+    "name": "ArrowRightOutlined"
+  },
+  {
+    "name": "ArrowUpOutlined"
+  },
+  {
+    "name": "ArrowsAltOutlined"
+  },
+  {
+    "name": "AudioFilled"
+  },
+  {
+    "name": "AudioMutedOutlined"
+  },
+  {
+    "name": "AudioOutlined"
+  },
+  {
+    "name": "AudioTwoTone"
+  },
+  {
+    "name": "AuditOutlined"
+  },
+  {
+    "name": "BackwardFilled"
+  },
+  {
+    "name": "BackwardOutlined"
+  },
+  {
+    "name": "BaiduOutlined"
+  },
+  {
+    "name": "BankFilled"
+  },
+  {
+    "name": "BankOutlined"
+  },
+  {
+    "name": "BankTwoTone"
+  },
+  {
+    "name": "BarChartOutlined"
+  },
+  {
+    "name": "BarcodeOutlined"
+  },
+  {
+    "name": "BarsOutlined"
+  },
+  {
+    "name": "BehanceCircleFilled"
+  },
+  {
+    "name": "BehanceOutlined"
+  },
+  {
+    "name": "BehanceSquareFilled"
+  },
+  {
+    "name": "BehanceSquareOutlined"
+  },
+  {
+    "name": "BellFilled"
+  },
+  {
+    "name": "BellOutlined"
+  },
+  {
+    "name": "BellTwoTone"
+  },
+  {
+    "name": "BgColorsOutlined"
+  },
+  {
+    "name": "BilibiliFilled"
+  },
+  {
+    "name": "BilibiliOutlined"
+  },
+  {
+    "name": "BlockOutlined"
+  },
+  {
+    "name": "BoldOutlined"
+  },
+  {
+    "name": "BookFilled"
+  },
+  {
+    "name": "BookOutlined"
+  },
+  {
+    "name": "BookTwoTone"
+  },
+  {
+    "name": "BorderBottomOutlined"
+  },
+  {
+    "name": "BorderHorizontalOutlined"
+  },
+  {
+    "name": "BorderInnerOutlined"
+  },
+  {
+    "name": "BorderLeftOutlined"
+  },
+  {
+    "name": "BorderOuterOutlined"
+  },
+  {
+    "name": "BorderOutlined"
+  },
+  {
+    "name": "BorderRightOutlined"
+  },
+  {
+    "name": "BorderTopOutlined"
+  },
+  {
+    "name": "BorderVerticleOutlined"
+  },
+  {
+    "name": "BorderlessTableOutlined"
+  },
+  {
+    "name": "BoxPlotFilled"
+  },
+  {
+    "name": "BoxPlotOutlined"
+  },
+  {
+    "name": "BoxPlotTwoTone"
+  },
+  {
+    "name": "BranchesOutlined"
+  },
+  {
+    "name": "BugFilled"
+  },
+  {
+    "name": "BugOutlined"
+  },
+  {
+    "name": "BugTwoTone"
+  },
+  {
+    "name": "BuildFilled"
+  },
+  {
+    "name": "BuildOutlined"
+  },
+  {
+    "name": "BuildTwoTone"
+  },
+  {
+    "name": "BulbFilled"
+  },
+  {
+    "name": "BulbOutlined"
+  },
+  {
+    "name": "BulbTwoTone"
+  },
+  {
+    "name": "CalculatorFilled"
+  },
+  {
+    "name": "CalculatorOutlined"
+  },
+  {
+    "name": "CalculatorTwoTone"
+  },
+  {
+    "name": "CalendarFilled"
+  },
+  {
+    "name": "CalendarOutlined"
+  },
+  {
+    "name": "CalendarTwoTone"
+  },
+  {
+    "name": "CameraFilled"
+  },
+  {
+    "name": "CameraOutlined"
+  },
+  {
+    "name": "CameraTwoTone"
+  },
+  {
+    "name": "CarFilled"
+  },
+  {
+    "name": "CarOutlined"
+  },
+  {
+    "name": "CarTwoTone"
+  },
+  {
+    "name": "CaretDownFilled"
+  },
+  {
+    "name": "CaretDownOutlined"
+  },
+  {
+    "name": "CaretLeftFilled"
+  },
+  {
+    "name": "CaretLeftOutlined"
+  },
+  {
+    "name": "CaretRightFilled"
+  },
+  {
+    "name": "CaretRightOutlined"
+  },
+  {
+    "name": "CaretUpFilled"
+  },
+  {
+    "name": "CaretUpOutlined"
+  },
+  {
+    "name": "CarryOutFilled"
+  },
+  {
+    "name": "CarryOutOutlined"
+  },
+  {
+    "name": "CarryOutTwoTone"
+  },
+  {
+    "name": "CheckCircleFilled"
+  },
+  {
+    "name": "CheckCircleOutlined"
+  },
+  {
+    "name": "CheckCircleTwoTone"
+  },
+  {
+    "name": "CheckOutlined"
+  },
+  {
+    "name": "CheckSquareFilled"
+  },
+  {
+    "name": "CheckSquareOutlined"
+  },
+  {
+    "name": "CheckSquareTwoTone"
+  },
+  {
+    "name": "ChromeFilled"
+  },
+  {
+    "name": "ChromeOutlined"
+  },
+  {
+    "name": "CiCircleFilled"
+  },
+  {
+    "name": "CiCircleOutlined"
+  },
+  {
+    "name": "CiCircleTwoTone"
+  },
+  {
+    "name": "CiOutlined"
+  },
+  {
+    "name": "CiTwoTone"
+  },
+  {
+    "name": "ClearOutlined"
+  },
+  {
+    "name": "ClockCircleFilled"
+  },
+  {
+    "name": "ClockCircleOutlined"
+  },
+  {
+    "name": "ClockCircleTwoTone"
+  },
+  {
+    "name": "CloseCircleFilled"
+  },
+  {
+    "name": "CloseCircleOutlined"
+  },
+  {
+    "name": "CloseCircleTwoTone"
+  },
+  {
+    "name": "CloseOutlined"
+  },
+  {
+    "name": "CloseSquareFilled"
+  },
+  {
+    "name": "CloseSquareOutlined"
+  },
+  {
+    "name": "CloseSquareTwoTone"
+  },
+  {
+    "name": "CloudDownloadOutlined"
+  },
+  {
+    "name": "CloudFilled"
+  },
+  {
+    "name": "CloudOutlined"
+  },
+  {
+    "name": "CloudServerOutlined"
+  },
+  {
+    "name": "CloudSyncOutlined"
+  },
+  {
+    "name": "CloudTwoTone"
+  },
+  {
+    "name": "CloudUploadOutlined"
+  },
+  {
+    "name": "ClusterOutlined"
+  },
+  {
+    "name": "CodeFilled"
+  },
+  {
+    "name": "CodeOutlined"
+  },
+  {
+    "name": "CodeSandboxCircleFilled"
+  },
+  {
+    "name": "CodeSandboxOutlined"
+  },
+  {
+    "name": "CodeSandboxSquareFilled"
+  },
+  {
+    "name": "CodeTwoTone"
+  },
+  {
+    "name": "CodepenCircleFilled"
+  },
+  {
+    "name": "CodepenCircleOutlined"
+  },
+  {
+    "name": "CodepenOutlined"
+  },
+  {
+    "name": "CodepenSquareFilled"
+  },
+  {
+    "name": "CoffeeOutlined"
+  },
+  {
+    "name": "ColumnHeightOutlined"
+  },
+  {
+    "name": "ColumnWidthOutlined"
+  },
+  {
+    "name": "CommentOutlined"
+  },
+  {
+    "name": "CompassFilled"
+  },
+  {
+    "name": "CompassOutlined"
+  },
+  {
+    "name": "CompassTwoTone"
+  },
+  {
+    "name": "CompressOutlined"
+  },
+  {
+    "name": "ConsoleSqlOutlined"
+  },
+  {
+    "name": "ContactsFilled"
+  },
+  {
+    "name": "ContactsOutlined"
+  },
+  {
+    "name": "ContactsTwoTone"
+  },
+  {
+    "name": "ContainerFilled"
+  },
+  {
+    "name": "ContainerOutlined"
+  },
+  {
+    "name": "ContainerTwoTone"
+  },
+  {
+    "name": "ControlFilled"
+  },
+  {
+    "name": "ControlOutlined"
+  },
+  {
+    "name": "ControlTwoTone"
+  },
+  {
+    "name": "CopyFilled"
+  },
+  {
+    "name": "CopyOutlined"
+  },
+  {
+    "name": "CopyTwoTone"
+  },
+  {
+    "name": "CopyrightCircleFilled"
+  },
+  {
+    "name": "CopyrightCircleOutlined"
+  },
+  {
+    "name": "CopyrightCircleTwoTone"
+  },
+  {
+    "name": "CopyrightOutlined"
+  },
+  {
+    "name": "CopyrightTwoTone"
+  },
+  {
+    "name": "CreditCardFilled"
+  },
+  {
+    "name": "CreditCardOutlined"
+  },
+  {
+    "name": "CreditCardTwoTone"
+  },
+  {
+    "name": "CrownFilled"
+  },
+  {
+    "name": "CrownOutlined"
+  },
+  {
+    "name": "CrownTwoTone"
+  },
+  {
+    "name": "CustomerServiceFilled"
+  },
+  {
+    "name": "CustomerServiceOutlined"
+  },
+  {
+    "name": "CustomerServiceTwoTone"
+  },
+  {
+    "name": "DashOutlined"
+  },
+  {
+    "name": "DashboardFilled"
+  },
+  {
+    "name": "DashboardOutlined"
+  },
+  {
+    "name": "DashboardTwoTone"
+  },
+  {
+    "name": "DatabaseFilled"
+  },
+  {
+    "name": "DatabaseOutlined"
+  },
+  {
+    "name": "DatabaseTwoTone"
+  },
+  {
+    "name": "DeleteColumnOutlined"
+  },
+  {
+    "name": "DeleteFilled"
+  },
+  {
+    "name": "DeleteOutlined"
+  },
+  {
+    "name": "DeleteRowOutlined"
+  },
+  {
+    "name": "DeleteTwoTone"
+  },
+  {
+    "name": "DeliveredProcedureOutlined"
+  },
+  {
+    "name": "DeploymentUnitOutlined"
+  },
+  {
+    "name": "DesktopOutlined"
+  },
+  {
+    "name": "DiffFilled"
+  },
+  {
+    "name": "DiffOutlined"
+  },
+  {
+    "name": "DiffTwoTone"
+  },
+  {
+    "name": "DingdingOutlined"
+  },
+  {
+    "name": "DingtalkCircleFilled"
+  },
+  {
+    "name": "DingtalkOutlined"
+  },
+  {
+    "name": "DingtalkSquareFilled"
+  },
+  {
+    "name": "DisconnectOutlined"
+  },
+  {
+    "name": "DiscordFilled"
+  },
+  {
+    "name": "DiscordOutlined"
+  },
+  {
+    "name": "DislikeFilled"
+  },
+  {
+    "name": "DislikeOutlined"
+  },
+  {
+    "name": "DislikeTwoTone"
+  },
+  {
+    "name": "DockerOutlined"
+  },
+  {
+    "name": "DollarCircleFilled"
+  },
+  {
+    "name": "DollarCircleOutlined"
+  },
+  {
+    "name": "DollarCircleTwoTone"
+  },
+  {
+    "name": "DollarOutlined"
+  },
+  {
+    "name": "DollarTwoTone"
+  },
+  {
+    "name": "DotChartOutlined"
+  },
+  {
+    "name": "DotNetOutlined"
+  },
+  {
+    "name": "DoubleLeftOutlined"
+  },
+  {
+    "name": "DoubleRightOutlined"
+  },
+  {
+    "name": "DownCircleFilled"
+  },
+  {
+    "name": "DownCircleOutlined"
+  },
+  {
+    "name": "DownCircleTwoTone"
+  },
+  {
+    "name": "DownOutlined"
+  },
+  {
+    "name": "DownSquareFilled"
+  },
+  {
+    "name": "DownSquareOutlined"
+  },
+  {
+    "name": "DownSquareTwoTone"
+  },
+  {
+    "name": "DownloadOutlined"
+  },
+  {
+    "name": "DragOutlined"
+  },
+  {
+    "name": "DribbbleCircleFilled"
+  },
+  {
+    "name": "DribbbleOutlined"
+  },
+  {
+    "name": "DribbbleSquareFilled"
+  },
+  {
+    "name": "DribbbleSquareOutlined"
+  },
+  {
+    "name": "DropboxCircleFilled"
+  },
+  {
+    "name": "DropboxOutlined"
+  },
+  {
+    "name": "DropboxSquareFilled"
+  },
+  {
+    "name": "EditFilled"
+  },
+  {
+    "name": "EditOutlined"
+  },
+  {
+    "name": "EditTwoTone"
+  },
+  {
+    "name": "EllipsisOutlined"
+  },
+  {
+    "name": "EnterOutlined"
+  },
+  {
+    "name": "EnvironmentFilled"
+  },
+  {
+    "name": "EnvironmentOutlined"
+  },
+  {
+    "name": "EnvironmentTwoTone"
+  },
+  {
+    "name": "EuroCircleFilled"
+  },
+  {
+    "name": "EuroCircleOutlined"
+  },
+  {
+    "name": "EuroCircleTwoTone"
+  },
+  {
+    "name": "EuroOutlined"
+  },
+  {
+    "name": "EuroTwoTone"
+  },
+  {
+    "name": "ExceptionOutlined"
+  },
+  {
+    "name": "ExclamationCircleFilled"
+  },
+  {
+    "name": "ExclamationCircleOutlined"
+  },
+  {
+    "name": "ExclamationCircleTwoTone"
+  },
+  {
+    "name": "ExclamationOutlined"
+  },
+  {
+    "name": "ExpandAltOutlined"
+  },
+  {
+    "name": "ExpandOutlined"
+  },
+  {
+    "name": "ExperimentFilled"
+  },
+  {
+    "name": "ExperimentOutlined"
+  },
+  {
+    "name": "ExperimentTwoTone"
+  },
+  {
+    "name": "ExportOutlined"
+  },
+  {
+    "name": "EyeFilled"
+  },
+  {
+    "name": "EyeInvisibleFilled"
+  },
+  {
+    "name": "EyeInvisibleOutlined"
+  },
+  {
+    "name": "EyeInvisibleTwoTone"
+  },
+  {
+    "name": "EyeOutlined"
+  },
+  {
+    "name": "EyeTwoTone"
+  },
+  {
+    "name": "FacebookFilled"
+  },
+  {
+    "name": "FacebookOutlined"
+  },
+  {
+    "name": "FallOutlined"
+  },
+  {
+    "name": "FastBackwardFilled"
+  },
+  {
+    "name": "FastBackwardOutlined"
+  },
+  {
+    "name": "FastForwardFilled"
+  },
+  {
+    "name": "FastForwardOutlined"
+  },
+  {
+    "name": "FieldBinaryOutlined"
+  },
+  {
+    "name": "FieldNumberOutlined"
+  },
+  {
+    "name": "FieldStringOutlined"
+  },
+  {
+    "name": "FieldTimeOutlined"
+  },
+  {
+    "name": "FileAddFilled"
+  },
+  {
+    "name": "FileAddOutlined"
+  },
+  {
+    "name": "FileAddTwoTone"
+  },
+  {
+    "name": "FileDoneOutlined"
+  },
+  {
+    "name": "FileExcelFilled"
+  },
+  {
+    "name": "FileExcelOutlined"
+  },
+  {
+    "name": "FileExcelTwoTone"
+  },
+  {
+    "name": "FileExclamationFilled"
+  },
+  {
+    "name": "FileExclamationOutlined"
+  },
+  {
+    "name": "FileExclamationTwoTone"
+  },
+  {
+    "name": "FileFilled"
+  },
+  {
+    "name": "FileGifOutlined"
+  },
+  {
+    "name": "FileImageFilled"
+  },
+  {
+    "name": "FileImageOutlined"
+  },
+  {
+    "name": "FileImageTwoTone"
+  },
+  {
+    "name": "FileJpgOutlined"
+  },
+  {
+    "name": "FileMarkdownFilled"
+  },
+  {
+    "name": "FileMarkdownOutlined"
+  },
+  {
+    "name": "FileMarkdownTwoTone"
+  },
+  {
+    "name": "FileOutlined"
+  },
+  {
+    "name": "FilePdfFilled"
+  },
+  {
+    "name": "FilePdfOutlined"
+  },
+  {
+    "name": "FilePdfTwoTone"
+  },
+  {
+    "name": "FilePptFilled"
+  },
+  {
+    "name": "FilePptOutlined"
+  },
+  {
+    "name": "FilePptTwoTone"
+  },
+  {
+    "name": "FileProtectOutlined"
+  },
+  {
+    "name": "FileSearchOutlined"
+  },
+  {
+    "name": "FileSyncOutlined"
+  },
+  {
+    "name": "FileTextFilled"
+  },
+  {
+    "name": "FileTextOutlined"
+  },
+  {
+    "name": "FileTextTwoTone"
+  },
+  {
+    "name": "FileTwoTone"
+  },
+  {
+    "name": "FileUnknownFilled"
+  },
+  {
+    "name": "FileUnknownOutlined"
+  },
+  {
+    "name": "FileUnknownTwoTone"
+  },
+  {
+    "name": "FileWordFilled"
+  },
+  {
+    "name": "FileWordOutlined"
+  },
+  {
+    "name": "FileWordTwoTone"
+  },
+  {
+    "name": "FileZipFilled"
+  },
+  {
+    "name": "FileZipOutlined"
+  },
+  {
+    "name": "FileZipTwoTone"
+  },
+  {
+    "name": "FilterFilled"
+  },
+  {
+    "name": "FilterOutlined"
+  },
+  {
+    "name": "FilterTwoTone"
+  },
+  {
+    "name": "FireFilled"
+  },
+  {
+    "name": "FireOutlined"
+  },
+  {
+    "name": "FireTwoTone"
+  },
+  {
+    "name": "FlagFilled"
+  },
+  {
+    "name": "FlagOutlined"
+  },
+  {
+    "name": "FlagTwoTone"
+  },
+  {
+    "name": "FolderAddFilled"
+  },
+  {
+    "name": "FolderAddOutlined"
+  },
+  {
+    "name": "FolderAddTwoTone"
+  },
+  {
+    "name": "FolderFilled"
+  },
+  {
+    "name": "FolderOpenFilled"
+  },
+  {
+    "name": "FolderOpenOutlined"
+  },
+  {
+    "name": "FolderOpenTwoTone"
+  },
+  {
+    "name": "FolderOutlined"
+  },
+  {
+    "name": "FolderTwoTone"
+  },
+  {
+    "name": "FolderViewOutlined"
+  },
+  {
+    "name": "FontColorsOutlined"
+  },
+  {
+    "name": "FontSizeOutlined"
+  },
+  {
+    "name": "ForkOutlined"
+  },
+  {
+    "name": "FormOutlined"
+  },
+  {
+    "name": "FormatPainterFilled"
+  },
+  {
+    "name": "FormatPainterOutlined"
+  },
+  {
+    "name": "ForwardFilled"
+  },
+  {
+    "name": "ForwardOutlined"
+  },
+  {
+    "name": "FrownFilled"
+  },
+  {
+    "name": "FrownOutlined"
+  },
+  {
+    "name": "FrownTwoTone"
+  },
+  {
+    "name": "FullscreenExitOutlined"
+  },
+  {
+    "name": "FullscreenOutlined"
+  },
+  {
+    "name": "FunctionOutlined"
+  },
+  {
+    "name": "FundFilled"
+  },
+  {
+    "name": "FundOutlined"
+  },
+  {
+    "name": "FundProjectionScreenOutlined"
+  },
+  {
+    "name": "FundTwoTone"
+  },
+  {
+    "name": "FundViewOutlined"
+  },
+  {
+    "name": "FunnelPlotFilled"
+  },
+  {
+    "name": "FunnelPlotOutlined"
+  },
+  {
+    "name": "FunnelPlotTwoTone"
+  },
+  {
+    "name": "GatewayOutlined"
+  },
+  {
+    "name": "GifOutlined"
+  },
+  {
+    "name": "GiftFilled"
+  },
+  {
+    "name": "GiftOutlined"
+  },
+  {
+    "name": "GiftTwoTone"
+  },
+  {
+    "name": "GithubFilled"
+  },
+  {
+    "name": "GithubOutlined"
+  },
+  {
+    "name": "GitlabFilled"
+  },
+  {
+    "name": "GitlabOutlined"
+  },
+  {
+    "name": "GlobalOutlined"
+  },
+  {
+    "name": "GoldFilled"
+  },
+  {
+    "name": "GoldOutlined"
+  },
+  {
+    "name": "GoldTwoTone"
+  },
+  {
+    "name": "GoldenFilled"
+  },
+  {
+    "name": "GoogleCircleFilled"
+  },
+  {
+    "name": "GoogleOutlined"
+  },
+  {
+    "name": "GooglePlusCircleFilled"
+  },
+  {
+    "name": "GooglePlusOutlined"
+  },
+  {
+    "name": "GooglePlusSquareFilled"
+  },
+  {
+    "name": "GoogleSquareFilled"
+  },
+  {
+    "name": "GroupOutlined"
+  },
+  {
+    "name": "HarmonyOSOutlined"
+  },
+  {
+    "name": "HddFilled"
+  },
+  {
+    "name": "HddOutlined"
+  },
+  {
+    "name": "HddTwoTone"
+  },
+  {
+    "name": "HeartFilled"
+  },
+  {
+    "name": "HeartOutlined"
+  },
+  {
+    "name": "HeartTwoTone"
+  },
+  {
+    "name": "HeatMapOutlined"
+  },
+  {
+    "name": "HighlightFilled"
+  },
+  {
+    "name": "HighlightOutlined"
+  },
+  {
+    "name": "HighlightTwoTone"
+  },
+  {
+    "name": "HistoryOutlined"
+  },
+  {
+    "name": "HolderOutlined"
+  },
+  {
+    "name": "HomeFilled"
+  },
+  {
+    "name": "HomeOutlined"
+  },
+  {
+    "name": "HomeTwoTone"
+  },
+  {
+    "name": "HourglassFilled"
+  },
+  {
+    "name": "HourglassOutlined"
+  },
+  {
+    "name": "HourglassTwoTone"
+  },
+  {
+    "name": "Html5Filled"
+  },
+  {
+    "name": "Html5Outlined"
+  },
+  {
+    "name": "Html5TwoTone"
+  },
+  {
+    "name": "IdcardFilled"
+  },
+  {
+    "name": "IdcardOutlined"
+  },
+  {
+    "name": "IdcardTwoTone"
+  },
+  {
+    "name": "IeCircleFilled"
+  },
+  {
+    "name": "IeOutlined"
+  },
+  {
+    "name": "IeSquareFilled"
+  },
+  {
+    "name": "ImportOutlined"
+  },
+  {
+    "name": "InboxOutlined"
+  },
+  {
+    "name": "InfoCircleFilled"
+  },
+  {
+    "name": "InfoCircleOutlined"
+  },
+  {
+    "name": "InfoCircleTwoTone"
+  },
+  {
+    "name": "InfoOutlined"
+  },
+  {
+    "name": "InsertRowAboveOutlined"
+  },
+  {
+    "name": "InsertRowBelowOutlined"
+  },
+  {
+    "name": "InsertRowLeftOutlined"
+  },
+  {
+    "name": "InsertRowRightOutlined"
+  },
+  {
+    "name": "InstagramFilled"
+  },
+  {
+    "name": "InstagramOutlined"
+  },
+  {
+    "name": "InsuranceFilled"
+  },
+  {
+    "name": "InsuranceOutlined"
+  },
+  {
+    "name": "InsuranceTwoTone"
+  },
+  {
+    "name": "InteractionFilled"
+  },
+  {
+    "name": "InteractionOutlined"
+  },
+  {
+    "name": "InteractionTwoTone"
+  },
+  {
+    "name": "IssuesCloseOutlined"
+  },
+  {
+    "name": "ItalicOutlined"
+  },
+  {
+    "name": "JavaOutlined"
+  },
+  {
+    "name": "JavaScriptOutlined"
+  },
+  {
+    "name": "KeyOutlined"
+  },
+  {
+    "name": "KubernetesOutlined"
+  },
+  {
+    "name": "LaptopOutlined"
+  },
+  {
+    "name": "LayoutFilled"
+  },
+  {
+    "name": "LayoutOutlined"
+  },
+  {
+    "name": "LayoutTwoTone"
+  },
+  {
+    "name": "LeftCircleFilled"
+  },
+  {
+    "name": "LeftCircleOutlined"
+  },
+  {
+    "name": "LeftCircleTwoTone"
+  },
+  {
+    "name": "LeftOutlined"
+  },
+  {
+    "name": "LeftSquareFilled"
+  },
+  {
+    "name": "LeftSquareOutlined"
+  },
+  {
+    "name": "LeftSquareTwoTone"
+  },
+  {
+    "name": "LikeFilled"
+  },
+  {
+    "name": "LikeOutlined"
+  },
+  {
+    "name": "LikeTwoTone"
+  },
+  {
+    "name": "LineChartOutlined"
+  },
+  {
+    "name": "LineHeightOutlined"
+  },
+  {
+    "name": "LineOutlined"
+  },
+  {
+    "name": "LinkOutlined"
+  },
+  {
+    "name": "LinkedinFilled"
+  },
+  {
+    "name": "LinkedinOutlined"
+  },
+  {
+    "name": "LinuxOutlined"
+  },
+  {
+    "name": "Loading3QuartersOutlined"
+  },
+  {
+    "name": "LoadingOutlined"
+  },
+  {
+    "name": "LockFilled"
+  },
+  {
+    "name": "LockOutlined"
+  },
+  {
+    "name": "LockTwoTone"
+  },
+  {
+    "name": "LoginOutlined"
+  },
+  {
+    "name": "LogoutOutlined"
+  },
+  {
+    "name": "MacCommandFilled"
+  },
+  {
+    "name": "MacCommandOutlined"
+  },
+  {
+    "name": "MailFilled"
+  },
+  {
+    "name": "MailOutlined"
+  },
+  {
+    "name": "MailTwoTone"
+  },
+  {
+    "name": "ManOutlined"
+  },
+  {
+    "name": "MedicineBoxFilled"
+  },
+  {
+    "name": "MedicineBoxOutlined"
+  },
+  {
+    "name": "MedicineBoxTwoTone"
+  },
+  {
+    "name": "MediumCircleFilled"
+  },
+  {
+    "name": "MediumOutlined"
+  },
+  {
+    "name": "MediumSquareFilled"
+  },
+  {
+    "name": "MediumWorkmarkOutlined"
+  },
+  {
+    "name": "MehFilled"
+  },
+  {
+    "name": "MehOutlined"
+  },
+  {
+    "name": "MehTwoTone"
+  },
+  {
+    "name": "MenuFoldOutlined"
+  },
+  {
+    "name": "MenuOutlined"
+  },
+  {
+    "name": "MenuUnfoldOutlined"
+  },
+  {
+    "name": "MergeCellsOutlined"
+  },
+  {
+    "name": "MergeFilled"
+  },
+  {
+    "name": "MergeOutlined"
+  },
+  {
+    "name": "MessageFilled"
+  },
+  {
+    "name": "MessageOutlined"
+  },
+  {
+    "name": "MessageTwoTone"
+  },
+  {
+    "name": "MinusCircleFilled"
+  },
+  {
+    "name": "MinusCircleOutlined"
+  },
+  {
+    "name": "MinusCircleTwoTone"
+  },
+  {
+    "name": "MinusOutlined"
+  },
+  {
+    "name": "MinusSquareFilled"
+  },
+  {
+    "name": "MinusSquareOutlined"
+  },
+  {
+    "name": "MinusSquareTwoTone"
+  },
+  {
+    "name": "MobileFilled"
+  },
+  {
+    "name": "MobileOutlined"
+  },
+  {
+    "name": "MobileTwoTone"
+  },
+  {
+    "name": "MoneyCollectFilled"
+  },
+  {
+    "name": "MoneyCollectOutlined"
+  },
+  {
+    "name": "MoneyCollectTwoTone"
+  },
+  {
+    "name": "MonitorOutlined"
+  },
+  {
+    "name": "MoonFilled"
+  },
+  {
+    "name": "MoonOutlined"
+  },
+  {
+    "name": "MoreOutlined"
+  },
+  {
+    "name": "MutedFilled"
+  },
+  {
+    "name": "MutedOutlined"
+  },
+  {
+    "name": "NodeCollapseOutlined"
+  },
+  {
+    "name": "NodeExpandOutlined"
+  },
+  {
+    "name": "NodeIndexOutlined"
+  },
+  {
+    "name": "NotificationFilled"
+  },
+  {
+    "name": "NotificationOutlined"
+  },
+  {
+    "name": "NotificationTwoTone"
+  },
+  {
+    "name": "NumberOutlined"
+  },
+  {
+    "name": "OneToOneOutlined"
+  },
+  {
+    "name": "OpenAIFilled"
+  },
+  {
+    "name": "OpenAIOutlined"
+  },
+  {
+    "name": "OrderedListOutlined"
+  },
+  {
+    "name": "PaperClipOutlined"
+  },
+  {
+    "name": "PartitionOutlined"
+  },
+  {
+    "name": "PauseCircleFilled"
+  },
+  {
+    "name": "PauseCircleOutlined"
+  },
+  {
+    "name": "PauseCircleTwoTone"
+  },
+  {
+    "name": "PauseOutlined"
+  },
+  {
+    "name": "PayCircleFilled"
+  },
+  {
+    "name": "PayCircleOutlined"
+  },
+  {
+    "name": "PercentageOutlined"
+  },
+  {
+    "name": "PhoneFilled"
+  },
+  {
+    "name": "PhoneOutlined"
+  },
+  {
+    "name": "PhoneTwoTone"
+  },
+  {
+    "name": "PicCenterOutlined"
+  },
+  {
+    "name": "PicLeftOutlined"
+  },
+  {
+    "name": "PicRightOutlined"
+  },
+  {
+    "name": "PictureFilled"
+  },
+  {
+    "name": "PictureOutlined"
+  },
+  {
+    "name": "PictureTwoTone"
+  },
+  {
+    "name": "PieChartFilled"
+  },
+  {
+    "name": "PieChartOutlined"
+  },
+  {
+    "name": "PieChartTwoTone"
+  },
+  {
+    "name": "PinterestFilled"
+  },
+  {
+    "name": "PinterestOutlined"
+  },
+  {
+    "name": "PlayCircleFilled"
+  },
+  {
+    "name": "PlayCircleOutlined"
+  },
+  {
+    "name": "PlayCircleTwoTone"
+  },
+  {
+    "name": "PlaySquareFilled"
+  },
+  {
+    "name": "PlaySquareOutlined"
+  },
+  {
+    "name": "PlaySquareTwoTone"
+  },
+  {
+    "name": "PlusCircleFilled"
+  },
+  {
+    "name": "PlusCircleOutlined"
+  },
+  {
+    "name": "PlusCircleTwoTone"
+  },
+  {
+    "name": "PlusOutlined"
+  },
+  {
+    "name": "PlusSquareFilled"
+  },
+  {
+    "name": "PlusSquareOutlined"
+  },
+  {
+    "name": "PlusSquareTwoTone"
+  },
+  {
+    "name": "PoundCircleFilled"
+  },
+  {
+    "name": "PoundCircleOutlined"
+  },
+  {
+    "name": "PoundCircleTwoTone"
+  },
+  {
+    "name": "PoundOutlined"
+  },
+  {
+    "name": "PoweroffOutlined"
+  },
+  {
+    "name": "PrinterFilled"
+  },
+  {
+    "name": "PrinterOutlined"
+  },
+  {
+    "name": "PrinterTwoTone"
+  },
+  {
+    "name": "ProductFilled"
+  },
+  {
+    "name": "ProductOutlined"
+  },
+  {
+    "name": "ProfileFilled"
+  },
+  {
+    "name": "ProfileOutlined"
+  },
+  {
+    "name": "ProfileTwoTone"
+  },
+  {
+    "name": "ProjectFilled"
+  },
+  {
+    "name": "ProjectOutlined"
+  },
+  {
+    "name": "ProjectTwoTone"
+  },
+  {
+    "name": "PropertySafetyFilled"
+  },
+  {
+    "name": "PropertySafetyOutlined"
+  },
+  {
+    "name": "PropertySafetyTwoTone"
+  },
+  {
+    "name": "PullRequestOutlined"
+  },
+  {
+    "name": "PushpinFilled"
+  },
+  {
+    "name": "PushpinOutlined"
+  },
+  {
+    "name": "PushpinTwoTone"
+  },
+  {
+    "name": "PythonOutlined"
+  },
+  {
+    "name": "QqCircleFilled"
+  },
+  {
+    "name": "QqOutlined"
+  },
+  {
+    "name": "QqSquareFilled"
+  },
+  {
+    "name": "QrcodeOutlined"
+  },
+  {
+    "name": "QuestionCircleFilled"
+  },
+  {
+    "name": "QuestionCircleOutlined"
+  },
+  {
+    "name": "QuestionCircleTwoTone"
+  },
+  {
+    "name": "QuestionOutlined"
+  },
+  {
+    "name": "RadarChartOutlined"
+  },
+  {
+    "name": "RadiusBottomleftOutlined"
+  },
+  {
+    "name": "RadiusBottomrightOutlined"
+  },
+  {
+    "name": "RadiusSettingOutlined"
+  },
+  {
+    "name": "RadiusUpleftOutlined"
+  },
+  {
+    "name": "RadiusUprightOutlined"
+  },
+  {
+    "name": "ReadFilled"
+  },
+  {
+    "name": "ReadOutlined"
+  },
+  {
+    "name": "ReconciliationFilled"
+  },
+  {
+    "name": "ReconciliationOutlined"
+  },
+  {
+    "name": "ReconciliationTwoTone"
+  },
+  {
+    "name": "RedEnvelopeFilled"
+  },
+  {
+    "name": "RedEnvelopeOutlined"
+  },
+  {
+    "name": "RedEnvelopeTwoTone"
+  },
+  {
+    "name": "RedditCircleFilled"
+  },
+  {
+    "name": "RedditOutlined"
+  },
+  {
+    "name": "RedditSquareFilled"
+  },
+  {
+    "name": "RedoOutlined"
+  },
+  {
+    "name": "ReloadOutlined"
+  },
+  {
+    "name": "RestFilled"
+  },
+  {
+    "name": "RestOutlined"
+  },
+  {
+    "name": "RestTwoTone"
+  },
+  {
+    "name": "RetweetOutlined"
+  },
+  {
+    "name": "RightCircleFilled"
+  },
+  {
+    "name": "RightCircleOutlined"
+  },
+  {
+    "name": "RightCircleTwoTone"
+  },
+  {
+    "name": "RightOutlined"
+  },
+  {
+    "name": "RightSquareFilled"
+  },
+  {
+    "name": "RightSquareOutlined"
+  },
+  {
+    "name": "RightSquareTwoTone"
+  },
+  {
+    "name": "RiseOutlined"
+  },
+  {
+    "name": "RobotFilled"
+  },
+  {
+    "name": "RobotOutlined"
+  },
+  {
+    "name": "RocketFilled"
+  },
+  {
+    "name": "RocketOutlined"
+  },
+  {
+    "name": "RocketTwoTone"
+  },
+  {
+    "name": "RollbackOutlined"
+  },
+  {
+    "name": "RotateLeftOutlined"
+  },
+  {
+    "name": "RotateRightOutlined"
+  },
+  {
+    "name": "RubyOutlined"
+  },
+  {
+    "name": "SafetyCertificateFilled"
+  },
+  {
+    "name": "SafetyCertificateOutlined"
+  },
+  {
+    "name": "SafetyCertificateTwoTone"
+  },
+  {
+    "name": "SafetyOutlined"
+  },
+  {
+    "name": "SaveFilled"
+  },
+  {
+    "name": "SaveOutlined"
+  },
+  {
+    "name": "SaveTwoTone"
+  },
+  {
+    "name": "ScanOutlined"
+  },
+  {
+    "name": "ScheduleFilled"
+  },
+  {
+    "name": "ScheduleOutlined"
+  },
+  {
+    "name": "ScheduleTwoTone"
+  },
+  {
+    "name": "ScissorOutlined"
+  },
+  {
+    "name": "SearchOutlined"
+  },
+  {
+    "name": "SecurityScanFilled"
+  },
+  {
+    "name": "SecurityScanOutlined"
+  },
+  {
+    "name": "SecurityScanTwoTone"
+  },
+  {
+    "name": "SelectOutlined"
+  },
+  {
+    "name": "SendOutlined"
+  },
+  {
+    "name": "SettingFilled"
+  },
+  {
+    "name": "SettingOutlined"
+  },
+  {
+    "name": "SettingTwoTone"
+  },
+  {
+    "name": "ShakeOutlined"
+  },
+  {
+    "name": "ShareAltOutlined"
+  },
+  {
+    "name": "ShopFilled"
+  },
+  {
+    "name": "ShopOutlined"
+  },
+  {
+    "name": "ShopTwoTone"
+  },
+  {
+    "name": "ShoppingCartOutlined"
+  },
+  {
+    "name": "ShoppingFilled"
+  },
+  {
+    "name": "ShoppingOutlined"
+  },
+  {
+    "name": "ShoppingTwoTone"
+  },
+  {
+    "name": "ShrinkOutlined"
+  },
+  {
+    "name": "SignalFilled"
+  },
+  {
+    "name": "SignatureFilled"
+  },
+  {
+    "name": "SignatureOutlined"
+  },
+  {
+    "name": "SisternodeOutlined"
+  },
+  {
+    "name": "SketchCircleFilled"
+  },
+  {
+    "name": "SketchOutlined"
+  },
+  {
+    "name": "SketchSquareFilled"
+  },
+  {
+    "name": "SkinFilled"
+  },
+  {
+    "name": "SkinOutlined"
+  },
+  {
+    "name": "SkinTwoTone"
+  },
+  {
+    "name": "SkypeFilled"
+  },
+  {
+    "name": "SkypeOutlined"
+  },
+  {
+    "name": "SlackCircleFilled"
+  },
+  {
+    "name": "SlackOutlined"
+  },
+  {
+    "name": "SlackSquareFilled"
+  },
+  {
+    "name": "SlackSquareOutlined"
+  },
+  {
+    "name": "SlidersFilled"
+  },
+  {
+    "name": "SlidersOutlined"
+  },
+  {
+    "name": "SlidersTwoTone"
+  },
+  {
+    "name": "SmallDashOutlined"
+  },
+  {
+    "name": "SmileFilled"
+  },
+  {
+    "name": "SmileOutlined"
+  },
+  {
+    "name": "SmileTwoTone"
+  },
+  {
+    "name": "SnippetsFilled"
+  },
+  {
+    "name": "SnippetsOutlined"
+  },
+  {
+    "name": "SnippetsTwoTone"
+  },
+  {
+    "name": "SolutionOutlined"
+  },
+  {
+    "name": "SortAscendingOutlined"
+  },
+  {
+    "name": "SortDescendingOutlined"
+  },
+  {
+    "name": "SoundFilled"
+  },
+  {
+    "name": "SoundOutlined"
+  },
+  {
+    "name": "SoundTwoTone"
+  },
+  {
+    "name": "SplitCellsOutlined"
+  },
+  {
+    "name": "SpotifyFilled"
+  },
+  {
+    "name": "SpotifyOutlined"
+  },
+  {
+    "name": "StarFilled"
+  },
+  {
+    "name": "StarOutlined"
+  },
+  {
+    "name": "StarTwoTone"
+  },
+  {
+    "name": "StepBackwardFilled"
+  },
+  {
+    "name": "StepBackwardOutlined"
+  },
+  {
+    "name": "StepForwardFilled"
+  },
+  {
+    "name": "StepForwardOutlined"
+  },
+  {
+    "name": "StockOutlined"
+  },
+  {
+    "name": "StopFilled"
+  },
+  {
+    "name": "StopOutlined"
+  },
+  {
+    "name": "StopTwoTone"
+  },
+  {
+    "name": "StrikethroughOutlined"
+  },
+  {
+    "name": "SubnodeOutlined"
+  },
+  {
+    "name": "SunFilled"
+  },
+  {
+    "name": "SunOutlined"
+  },
+  {
+    "name": "SwapLeftOutlined"
+  },
+  {
+    "name": "SwapOutlined"
+  },
+  {
+    "name": "SwapRightOutlined"
+  },
+  {
+    "name": "SwitcherFilled"
+  },
+  {
+    "name": "SwitcherOutlined"
+  },
+  {
+    "name": "SwitcherTwoTone"
+  },
+  {
+    "name": "SyncOutlined"
+  },
+  {
+    "name": "TableOutlined"
+  },
+  {
+    "name": "TabletFilled"
+  },
+  {
+    "name": "TabletOutlined"
+  },
+  {
+    "name": "TabletTwoTone"
+  },
+  {
+    "name": "TagFilled"
+  },
+  {
+    "name": "TagOutlined"
+  },
+  {
+    "name": "TagTwoTone"
+  },
+  {
+    "name": "TagsFilled"
+  },
+  {
+    "name": "TagsOutlined"
+  },
+  {
+    "name": "TagsTwoTone"
+  },
+  {
+    "name": "TaobaoCircleFilled"
+  },
+  {
+    "name": "TaobaoCircleOutlined"
+  },
+  {
+    "name": "TaobaoOutlined"
+  },
+  {
+    "name": "TaobaoSquareFilled"
+  },
+  {
+    "name": "TeamOutlined"
+  },
+  {
+    "name": "ThunderboltFilled"
+  },
+  {
+    "name": "ThunderboltOutlined"
+  },
+  {
+    "name": "ThunderboltTwoTone"
+  },
+  {
+    "name": "TikTokFilled"
+  },
+  {
+    "name": "TikTokOutlined"
+  },
+  {
+    "name": "ToTopOutlined"
+  },
+  {
+    "name": "ToolFilled"
+  },
+  {
+    "name": "ToolOutlined"
+  },
+  {
+    "name": "ToolTwoTone"
+  },
+  {
+    "name": "TrademarkCircleFilled"
+  },
+  {
+    "name": "TrademarkCircleOutlined"
+  },
+  {
+    "name": "TrademarkCircleTwoTone"
+  },
+  {
+    "name": "TrademarkOutlined"
+  },
+  {
+    "name": "TransactionOutlined"
+  },
+  {
+    "name": "TranslationOutlined"
+  },
+  {
+    "name": "TrophyFilled"
+  },
+  {
+    "name": "TrophyOutlined"
+  },
+  {
+    "name": "TrophyTwoTone"
+  },
+  {
+    "name": "TruckFilled"
+  },
+  {
+    "name": "TruckOutlined"
+  },
+  {
+    "name": "TwitchFilled"
+  },
+  {
+    "name": "TwitchOutlined"
+  },
+  {
+    "name": "TwitterCircleFilled"
+  },
+  {
+    "name": "TwitterOutlined"
+  },
+  {
+    "name": "TwitterSquareFilled"
+  },
+  {
+    "name": "UnderlineOutlined"
+  },
+  {
+    "name": "UndoOutlined"
+  },
+  {
+    "name": "UngroupOutlined"
+  },
+  {
+    "name": "UnlockFilled"
+  },
+  {
+    "name": "UnlockOutlined"
+  },
+  {
+    "name": "UnlockTwoTone"
+  },
+  {
+    "name": "UnorderedListOutlined"
+  },
+  {
+    "name": "UpCircleFilled"
+  },
+  {
+    "name": "UpCircleOutlined"
+  },
+  {
+    "name": "UpCircleTwoTone"
+  },
+  {
+    "name": "UpOutlined"
+  },
+  {
+    "name": "UpSquareFilled"
+  },
+  {
+    "name": "UpSquareOutlined"
+  },
+  {
+    "name": "UpSquareTwoTone"
+  },
+  {
+    "name": "UploadOutlined"
+  },
+  {
+    "name": "UsbFilled"
+  },
+  {
+    "name": "UsbOutlined"
+  },
+  {
+    "name": "UsbTwoTone"
+  },
+  {
+    "name": "UserAddOutlined"
+  },
+  {
+    "name": "UserDeleteOutlined"
+  },
+  {
+    "name": "UserOutlined"
+  },
+  {
+    "name": "UserSwitchOutlined"
+  },
+  {
+    "name": "UsergroupAddOutlined"
+  },
+  {
+    "name": "UsergroupDeleteOutlined"
+  },
+  {
+    "name": "VerifiedOutlined"
+  },
+  {
+    "name": "VerticalAlignBottomOutlined"
+  },
+  {
+    "name": "VerticalAlignMiddleOutlined"
+  },
+  {
+    "name": "VerticalAlignTopOutlined"
+  },
+  {
+    "name": "VerticalLeftOutlined"
+  },
+  {
+    "name": "VerticalRightOutlined"
+  },
+  {
+    "name": "VideoCameraAddOutlined"
+  },
+  {
+    "name": "VideoCameraFilled"
+  },
+  {
+    "name": "VideoCameraOutlined"
+  },
+  {
+    "name": "VideoCameraTwoTone"
+  },
+  {
+    "name": "WalletFilled"
+  },
+  {
+    "name": "WalletOutlined"
+  },
+  {
+    "name": "WalletTwoTone"
+  },
+  {
+    "name": "WarningFilled"
+  },
+  {
+    "name": "WarningOutlined"
+  },
+  {
+    "name": "WarningTwoTone"
+  },
+  {
+    "name": "WechatFilled"
+  },
+  {
+    "name": "WechatOutlined"
+  },
+  {
+    "name": "WechatWorkFilled"
+  },
+  {
+    "name": "WechatWorkOutlined"
+  },
+  {
+    "name": "WeiboCircleFilled"
+  },
+  {
+    "name": "WeiboCircleOutlined"
+  },
+  {
+    "name": "WeiboOutlined"
+  },
+  {
+    "name": "WeiboSquareFilled"
+  },
+  {
+    "name": "WeiboSquareOutlined"
+  },
+  {
+    "name": "WhatsAppOutlined"
+  },
+  {
+    "name": "WifiOutlined"
+  },
+  {
+    "name": "WindowsFilled"
+  },
+  {
+    "name": "WindowsOutlined"
+  },
+  {
+    "name": "WomanOutlined"
+  },
+  {
+    "name": "XFilled"
+  },
+  {
+    "name": "XOutlined"
+  },
+  {
+    "name": "YahooFilled"
+  },
+  {
+    "name": "YahooOutlined"
+  },
+  {
+    "name": "YoutubeFilled"
+  },
+  {
+    "name": "YoutubeOutlined"
+  },
+  {
+    "name": "YuqueFilled"
+  },
+  {
+    "name": "YuqueOutlined"
+  },
+  {
+    "name": "ZhihuCircleFilled"
+  },
+  {
+    "name": "ZhihuOutlined"
+  },
+  {
+    "name": "ZhihuSquareFilled"
+  },
+  {
+    "name": "ZoomInOutlined"
+  },
+  {
+    "name": "ZoomOutOutlined"
+  }
+]

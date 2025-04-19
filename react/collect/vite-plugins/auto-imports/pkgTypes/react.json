@@ -1,0 +1,1717 @@
+[
+  {
+    "name": "ElementType",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": true
+      },
+      {
+        "name": "Tag",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "ComponentType",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "JSXElementConstructor",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "RefObject",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DO_NOT_USE_OR_YOU_WILL_BE_FIRED_CALLBACK_REF_RETURN_VALUES"
+  },
+  {
+    "name": "RefCallback",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "Ref",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "LegacyRef",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ElementRef",
+    "parameter": [
+      {
+        "name": "C",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ComponentState"
+  },
+  {
+    "name": "Key"
+  },
+  {
+    "name": "Attributes"
+  },
+  {
+    "name": "RefAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ClassAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ReactElement",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": true
+      },
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "FunctionComponentElement",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "CElement",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ComponentElement",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DOMElement",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ReactHTMLElement",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DetailedReactHTMLElement",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ReactSVGElement"
+  },
+  {
+    "name": "ReactPortal"
+  },
+  {
+    "name": "Factory",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "FunctionComponentFactory",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ComponentFactory",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "CFactory",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ClassicFactory",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DOMFactory",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "HTMLFactory",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DetailedHTMLFactory",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "SVGFactory"
+  },
+  {
+    "name": "DO_NOT_USE_OR_YOU_WILL_BE_FIRED_EXPERIMENTAL_REACT_NODES"
+  },
+  {
+    "name": "ReactNode"
+  },
+  {
+    "name": "ProviderProps",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ConsumerProps",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ExoticComponent",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "NamedExoticComponent",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "ProviderExoticComponent",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ContextType",
+    "parameter": [
+      {
+        "name": "C",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "Provider",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "Consumer",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "Context",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "SuspenseProps"
+  },
+  {
+    "name": "ProfilerOnRenderCallback"
+  },
+  {
+    "name": "ProfilerProps"
+  },
+  {
+    "name": "ReactInstance"
+  },
+  {
+    "name": "Component",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": true
+      },
+      {
+        "name": "S",
+        "isDefault": true
+      },
+      {
+        "name": "SS",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "ChildContextProvider",
+    "parameter": [
+      {
+        "name": "CC",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "FC",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "FunctionComponent",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "ForwardedRef",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ForwardRefRenderFunction",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      },
+      {
+        "name": "P",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "ComponentClass",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": true
+      },
+      {
+        "name": "S",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "ClassType",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "T",
+        "isDefault": false
+      },
+      {
+        "name": "C",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ComponentLifecycle",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "S",
+        "isDefault": false
+      },
+      {
+        "name": "SS",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "StaticLifecycle",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "S",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "GetDerivedStateFromProps",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "S",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "GetDerivedStateFromError",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "S",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "NewLifecycle",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "S",
+        "isDefault": false
+      },
+      {
+        "name": "SS",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DeprecatedLifecycle",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      },
+      {
+        "name": "S",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ForwardRefExoticComponent",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "PropsWithoutRef",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "PropsWithRef",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "PropsWithChildren",
+    "parameter": [
+      {
+        "name": "P",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "ComponentProps",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ComponentPropsWithRef",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "CustomComponentPropsWithRef",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ComponentPropsWithoutRef",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ComponentRef",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "MemoExoticComponent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "LazyExoticComponent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "SetStateAction",
+    "parameter": [
+      {
+        "name": "S",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "Dispatch",
+    "parameter": [
+      {
+        "name": "A",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DispatchWithoutAction"
+  },
+  {
+    "name": "Reducer",
+    "parameter": [
+      {
+        "name": "S",
+        "isDefault": false
+      },
+      {
+        "name": "A",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ReducerWithoutAction",
+    "parameter": [
+      {
+        "name": "S",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ReducerState",
+    "parameter": [
+      {
+        "name": "R",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ReducerAction",
+    "parameter": [
+      {
+        "name": "R",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ReducerStateWithoutAction",
+    "parameter": [
+      {
+        "name": "R",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DependencyList"
+  },
+  {
+    "name": "EffectCallback"
+  },
+  {
+    "name": "MutableRefObject",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "TransitionFunction"
+  },
+  {
+    "name": "TransitionStartFunction"
+  },
+  {
+    "name": "BaseSyntheticEvent",
+    "parameter": [
+      {
+        "name": "E",
+        "isDefault": true
+      },
+      {
+        "name": "C",
+        "isDefault": true
+      },
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "SyntheticEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      },
+      {
+        "name": "E",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "ClipboardEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "CompositionEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "DragEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "PointerEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "FocusEvent",
+    "parameter": [
+      {
+        "name": "Target",
+        "isDefault": true
+      },
+      {
+        "name": "RelatedTarget",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "FormEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "InvalidEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "ChangeEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "ModifierKey"
+  },
+  {
+    "name": "KeyboardEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "MouseEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      },
+      {
+        "name": "E",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "TouchEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "UIEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      },
+      {
+        "name": "E",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "WheelEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "AnimationEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "TransitionEvent",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "EventHandler",
+    "parameter": [
+      {
+        "name": "E",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ReactEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "ClipboardEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "CompositionEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "DragEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "FocusEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "FormEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "ChangeEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "KeyboardEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "MouseEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "TouchEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "PointerEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "UIEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "WheelEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "AnimationEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "TransitionEventHandler",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": true
+      }
+    ]
+  },
+  {
+    "name": "HTMLProps",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DetailedHTMLProps",
+    "parameter": [
+      {
+        "name": "E",
+        "isDefault": false
+      },
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "SVGProps",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "SVGLineElementAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "SVGTextElementAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DOMAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "CSSProperties"
+  },
+  {
+    "name": "AriaAttributes"
+  },
+  {
+    "name": "AriaRole"
+  },
+  {
+    "name": "HTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DO_NOT_USE_OR_YOU_WILL_BE_FIRED_EXPERIMENTAL_FORM_ACTIONS"
+  },
+  {
+    "name": "AllHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "HTMLAttributeReferrerPolicy"
+  },
+  {
+    "name": "HTMLAttributeAnchorTarget"
+  },
+  {
+    "name": "AnchorHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "AudioHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "AreaHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "BaseHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "BlockquoteHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ButtonHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "CanvasHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ColHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ColgroupHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DataHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DetailsHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DelHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "DialogHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "EmbedHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "FieldsetHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "FormHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "HtmlHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "IframeHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ImgHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "InsHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "HTMLInputTypeAttribute"
+  },
+  {
+    "name": "AutoFillAddressKind"
+  },
+  {
+    "name": "AutoFillBase"
+  },
+  {
+    "name": "AutoFillContactField"
+  },
+  {
+    "name": "AutoFillContactKind"
+  },
+  {
+    "name": "AutoFillCredentialField"
+  },
+  {
+    "name": "AutoFillNormalField"
+  },
+  {
+    "name": "OptionalPrefixToken",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "OptionalPostfixToken",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "AutoFillField"
+  },
+  {
+    "name": "AutoFillSection"
+  },
+  {
+    "name": "AutoFill"
+  },
+  {
+    "name": "HTMLInputAutoCompleteAttribute"
+  },
+  {
+    "name": "InputHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "KeygenHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "LabelHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "LiHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "LinkHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "MapHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "MenuHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "MediaHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "MetaHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "MeterHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "QuoteHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ObjectHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "OlHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "OptgroupHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "OptionHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "OutputHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ParamHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ProgressHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "SlotHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ScriptHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "SelectHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "SourceHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "StyleHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "TableHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "TextareaHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "TdHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ThHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "TimeHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "TrackHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "VideoHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "SVGAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "WebViewHTMLAttributes",
+    "parameter": [
+      {
+        "name": "T",
+        "isDefault": false
+      }
+    ]
+  },
+  {
+    "name": "ReactHTML"
+  },
+  {
+    "name": "ReactSVG"
+  },
+  {
+    "name": "ReactDOM"
+  },
+  {
+    "name": "AbstractView"
+  },
+  {
+    "name": "Touch"
+  },
+  {
+    "name": "TouchList"
+  },
+  {
+    "name": "ErrorInfo"
+  }
+]

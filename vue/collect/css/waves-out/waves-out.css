@@ -1,0 +1,33 @@
+.waves-out {
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  border: 0 solid;
+  opacity: 0.3;
+  border-radius: inherit;
+  pointer-events: none;
+  user-select: none;
+}
+.waves-out.active {
+  animation: fadeEffect 2s cubic-bezier(0.08, 0.82, 0.17, 1),
+    waveEffect 0.4s cubic-bezier(0.08, 0.82, 0.17, 1);
+  /* animation-fill-mode: forwards; */
+}
+
+@keyframes waveEffect {
+  100% {
+    top: -6px;
+    left: -6px;
+    bottom: -6px;
+    right: -6px;
+    border-width: 6px;
+  }
+}
+
+@keyframes fadeEffect {
+  100% {
+    opacity: 0;
+  }
+}

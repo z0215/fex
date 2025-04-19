@@ -1,0 +1,51 @@
+{
+  "import": {
+    "scope": "typescript,typescriptreact,vue",
+    "prefix": "im",
+    "body": [
+      "import { $2 } from '$1'"
+    ],
+  },
+  "export-all": {
+    "scope": "typescript,typescriptreact,vue",
+    "prefix": "ex",
+    "body": [
+      "export * from '$1';"
+    ],
+  },
+  "export-vue-component": {
+    "scope": "vue",
+    "prefix": "vue",
+    "body": [
+      "<script setup lang=\"ts\">",
+      "$2",
+      "</script>",
+      "",
+      "<template>",
+      "$1",
+      "</template>",
+    ]
+  },
+  "export-react-component": {
+    "scope": "typescriptreact",
+    "prefix": "react",
+    "body": [
+      "export interface $1Props {$2}",
+      "",
+      "export const $1 = (props:$1Props) => {",
+      "return <>$1</>",
+      "}",
+    ]
+  },
+  "export-react-page": {
+    "scope": "typescriptreact",
+    "prefix": "react",
+    "body": [
+      "const $1 = () => {",
+      "return <>$1</>",
+      "}",
+      "",
+      "export default $1",
+    ]
+  },
+}

@@ -1,0 +1,136 @@
+{
+  "log with label": {
+    "prefix": "log",
+    "body": [
+      "console.log('$1::', $1)"
+    ]
+  },
+  "fn": {
+    "prefix": "fn",
+    "description": "export function",
+    "body": [
+			"export const $1 = ($2) => {$3}"
+		]
+  },
+  "fnp": {
+    "prefix": "fnp",
+    "description": "export function with interface",
+    "body": [
+			"export interface $1Options {",
+			"}",
+			"",
+			"export const $1 = (options:$1Options) => {$2}",
+		]
+  },
+  "dfn": {
+    "prefix": "dfn",
+    "description": "export default function",
+    "body": [
+			"const $1 = ($2) => {$3}",
+      "",
+      "export default $1",
+		]
+  },
+  "dfnp": {
+    "prefix": "dfnp",
+    "description": "export default function with interface",
+    "body": [
+			"export interface $1Options {",
+			"}",
+			"",
+			"const $1 = (options:$1Options) => {$2}",
+      "",
+      "export default $1",
+		]
+  },
+  "dirfn": {
+    "prefix": "dirfn",
+    "description": "export function based on directory",
+    "body": [
+			"export const ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}$1 = ($2) => {$3}"
+		]
+  },
+  "dirfnp": {
+    "prefix": "dirfnp",
+    "description": "export function with interface based on directory",
+    "body": [
+			"export interface ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/${1:/capitalize}/}Options {",
+			"}",
+			"",
+			"export const ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}$1 = (options:${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/${1:/capitalize}/}Options) => {$2}",
+		]
+  },
+  "dirdfn": {
+    "prefix": "dirdfn",
+    "description": "export default function based on directory",
+    "body": [
+			"const ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}$1 = ($2) => {$3}",
+      "",
+      "export default ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}$1",
+		]
+  },
+  "dirdfnp": {
+    "prefix": "dirdfnp",
+    "description": "export default function with interface based on directory",
+    "body": [
+			"export interface ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/${1:/capitalize}/}Options {",
+			"}",
+			"",
+			"const ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}$1 = (options:${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/${1:/capitalize}/}Options) => {$2}",
+      "",
+      "export default ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}$1",
+		]
+  },
+  "filefn": {
+    "prefix": "filefn",
+    "description": "export function based on filename",
+    "body": [
+			"export const ${TM_FILENAME_BASE}$1 = ($2) => {$3}"
+		]
+  },
+  "filefnp": {
+    "prefix": "filefnp",
+    "description": "export function with interface based on filename",
+    "body": [
+			"export interface ${TM_FILENAME_BASE/(.*)/${1:/capitalize}/}Options {",
+			"}",
+			"",
+			"export const ${TM_FILENAME_BASE}$1 = (options:${TM_FILENAME_BASE/(.*)/${1:/capitalize}/}Options) => {$2}",
+		]
+  },
+  "filedfn": {
+    "prefix": "filedfn",
+    "description": "export default function based on directory",
+    "body": [
+			"const ${TM_FILENAME_BASE}$1 = ($2) => {$3}",
+      "",
+      "export default ${TM_FILENAME_BASE}$1",
+		]
+  },
+  "filedfnp": {
+    "prefix": "filedfnp",
+    "description": "export default function with interface based on directory",
+    "body": [
+			"export interface ${TM_FILENAME_BASE/(.*)/${1:/capitalize}/}Options {",
+			"}",
+			"",
+			"const ${TM_FILENAME_BASE}$1 = (options:${TM_FILENAME_BASE/(.*)/${1:/capitalize}/}Options) => {$2}",
+      "",
+      "export default ${TM_FILENAME_BASE}$1",
+		]
+  },
+  "export api": {
+    "prefix": "api",
+    "body": [
+      "export interface $2Options {}",
+      "export interface $2Result {}",
+      "export const $1 = (options:$2Options) => {",
+      "  return api<$2Result>({",
+      "    url: `/`,",
+      "    baseURL: BASE_URL,",
+      "    method: 'post',",
+      "  })",
+      "}",
+    ]
+  }
+}

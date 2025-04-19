@@ -1,0 +1,239 @@
+{
+	"bfc": {
+		"prefix": "bfc",
+    "description": "export default react fc component",
+		"body": [
+			"const $1: BFC = () => {",
+			"  return <>$2</>",
+			"}",
+			"",
+			"export default $1",
+		]
+	},
+	"bfcp": {
+		"prefix": "bfcp",
+    "description": "export default react fc component with props",
+		"body": [
+			"export interface $1Props {",
+			"}",
+			"",
+			"const $1: BFC<$1Props> = ({}) => {",
+			"  return <>$2</>",
+			"}",
+			"",
+			"export default $1",
+		]
+	},
+	"bfcc": {
+		"prefix": "bfcc",
+    "description": "export default react fc component with children props",
+		"body": [
+			"export interface $1Props {",
+			"}",
+			"",
+			"const $1: BFCC<$1Props> = ({children}) => {",
+			"  return <>{children}</>",
+			"}",
+			"",
+			"export default $1",
+		]
+	},
+	"ffc": {
+		"prefix": "ffc",
+    "description": "export default react fc component with forwardRef",
+		"body": [
+			"export interface $1Props {",
+			"}",
+			"",
+			"export interface $1Ref {",
+			"}",
+			"",
+			"const $1: FFC<$1Ref, $1Props> = ({}, ref) => {",
+			"",
+			"  useImperativeHandle(ref, () => ({}))",
+			"",
+			"  return <>$2</>",
+			"}",
+			"",
+			"export default forwardRef($1)",
+		]
+	},
+	"ffcc": {
+		"prefix": "ffcc",
+    "description": "react fc component with children forwardRef",
+		"body": [
+			"export interface $1Props {",
+			"}",
+			"",
+			"export interface $1Ref {",
+			"}",
+			"",
+			"const $1: FFCC<$1Ref, $1Props> = ({children}, ref) => {",
+			"",
+			"  useImperativeHandle(ref, () => ({}))",
+			"",
+			"  return <>{children}</>",
+			"}",
+			"",
+			"export default forwardRef($1)",
+		]
+	},
+	"dirbfc": {
+		"prefix": "dirbfc",
+    "description": "export default react fc component based on directory",
+		"body": [
+			"const ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}$1: BFC = () => {",
+			"  return <>$2</>",
+			"}",
+			"",
+			"export default ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}$1",
+		]
+	},
+	"dirbfcp": {
+		"prefix": "dirbfcp",
+    "description": "export default react fc component with props based on directory",
+		"body": [
+			"export interface ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}$1Props {",
+			"}",
+			"",
+			"const ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}$1: BFC<${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}$1Props> = ({}) => {",
+			"  return <>$2</>",
+			"}",
+			"",
+			"export default ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}$1",
+		]
+	},
+	"dirbfcc": {
+		"prefix": "dirbfcc",
+    "description": "export default react fc component with children props based on directory",
+		"body": [
+			"export interface ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}Props {",
+			"}",
+			"",
+			"const ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}: BFCC<${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}Props> = ({children}) => {",
+			"  return <>{children}</>",
+			"}",
+			"",
+			"export default ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}",
+		]
+	},
+	"dirffc": {
+		"prefix": "dirffc",
+    "description": "export default react fc component with forwardRef based on directory",
+		"body": [
+			"export interface ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}Props {",
+			"}",
+			"",
+			"export interface ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}Ref {",
+			"}",
+			"",
+			"const ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}: FFC<${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}Ref, ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}Props> = ({}, ref) => {",
+			"",
+			"  useImperativeHandle(ref, () => ({}))",
+			"",
+			"  return <>$2</>",
+			"}",
+			"",
+			"export default forwardRef(${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/})",
+		]
+	},
+	"dirffcc": {
+		"prefix": "dirffcc",
+    "description": "react fc component with children forwardRef based on directory",
+		"body": [
+			"export interface ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}Props {",
+			"}",
+			"",
+			"export interface ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}Ref {",
+			"}",
+			"",
+			"const ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}: FFCC<${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}Ref, ${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/}Props> = ({children}, ref) => {",
+			"",
+			"  useImperativeHandle(ref, () => ({}))",
+			"",
+			"  return <>{children}</>",
+			"}",
+			"",
+			"export default forwardRef(${TM_DIRECTORY/.*[\\\\/]([^\\\\/]+).*/$1/})",
+		]
+	},
+  "filebfc": {
+		"prefix": "filebfc",
+    "description": "export default react fc component based on filename",
+		"body": [
+			"const ${TM_FILENAME_BASE}$1: BFC = () => {",
+			"  return <>$2</>",
+			"}",
+			"",
+			"export default ${TM_FILENAME_BASE}$1",
+		]
+	},
+	"filebfcp": {
+		"prefix": "filebfcp",
+    "description": "export default react fc component with props based on filename",
+		"body": [
+			"export interface ${TM_FILENAME_BASE}$1Props {",
+			"}",
+			"",
+			"const ${TM_FILENAME_BASE}$1: BFC<${TM_FILENAME_BASE}$1Props> = ({}) => {",
+			"  return <>$2</>",
+			"}",
+			"",
+			"export default ${TM_FILENAME_BASE}$1",
+		]
+	},
+	"filebfcc": {
+		"prefix": "filebfcc",
+    "description": "export default react fc component with children props based on filename",
+		"body": [
+			"export interface ${TM_FILENAME_BASE}Props {",
+			"}",
+			"",
+			"const ${TM_FILENAME_BASE}: BFCC<${TM_FILENAME_BASE}Props> = ({children}) => {",
+			"  return <>{children}</>",
+			"}",
+			"",
+			"export default ${TM_FILENAME_BASE}",
+		]
+	},
+	"fileffc": {
+		"prefix": "fileffc",
+    "description": "export default react fc component with forwardRef based on filename",
+		"body": [
+			"export interface ${TM_FILENAME_BASE}Props {",
+			"}",
+			"",
+			"export interface ${TM_FILENAME_BASE}Ref {",
+			"}",
+			"",
+			"const ${TM_FILENAME_BASE}: FFC<${TM_FILENAME_BASE}Ref, ${TM_FILENAME_BASE}Props> = ({}, ref) => {",
+			"",
+			"  useImperativeHandle(ref, () => ({}))",
+			"",
+			"  return <>$2</>",
+			"}",
+			"",
+			"export default forwardRef(${TM_FILENAME_BASE})",
+		]
+	},
+	"fileffcc": {
+		"prefix": "fileffcc",
+    "description": "react fc component with children forwardRef based on filename",
+		"body": [
+			"export interface ${TM_FILENAME_BASE}Props {",
+			"}",
+			"",
+			"export interface ${TM_FILENAME_BASE}Ref {",
+			"}",
+			"",
+			"const ${TM_FILENAME_BASE}: FFCC<${TM_FILENAME_BASE}Ref, ${TM_FILENAME_BASE}Props> = ({children}, ref) => {",
+			"",
+			"  useImperativeHandle(ref, () => ({}))",
+			"",
+			"  return <>{children}</>",
+			"}",
+			"",
+			"export default forwardRef(${TM_FILENAME_BASE})",
+		]
+	},
+}

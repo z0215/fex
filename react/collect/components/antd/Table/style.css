@@ -1,0 +1,7 @@
+.actions .ant-btn {
+  padding: 0;
+}
+
+.search-form .ant-form-item {
+  margin-inline-end: var(--ant-margin-xs);
+}

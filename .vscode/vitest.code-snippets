@@ -1,0 +1,18 @@
+{
+  "vitest template": {
+    "scope": "typescript",
+    "prefix": "vitest",
+    "body": [
+      "// @vitest-environment jsdom",
+      "",
+      "import { describe, expect, test } from 'vitest'",
+      "import { $1 } from '.'",
+      "",
+      "describe('$1', () => {",
+      "  test('normally', () => {",
+      "    expect($1()).toMatchInlineSnapshot()",
+      "  })",
+      "})"
+    ]
+  },
+}

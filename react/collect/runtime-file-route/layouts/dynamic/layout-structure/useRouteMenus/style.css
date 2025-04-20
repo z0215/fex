@@ -1,0 +1,9 @@
+/* Disabled Ant Design Menu Color Transition */
+.route-menu.ant-menu .ant-menu-inline .ant-menu-item,
+.route-menu.ant-menu .ant-menu-inline .ant-menu-submenu-title,
+.route-menu.ant-menu .ant-menu-submenu,
+.route-menu.ant-menu .ant-menu-submenu-inline,
+.route-menu.ant-menu .ant-menu-submenu .ant-menu-sub,
+.route-menu.ant-menu .ant-menu-title-content {
+  transition: none;
+}

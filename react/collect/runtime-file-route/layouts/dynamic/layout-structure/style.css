@@ -1,0 +1,4 @@
+.drag-in {
+  border-bottom: 2px solid var(--ant-color-primary);
+  border-radius: 0 !important;
+}
